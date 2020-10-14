@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**truth1492/truth1492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a senior looking for a full-time internship in software development. I have experience in JAVA, PYTHON, SQL, HTML/CSS, and other developing programs. In the future, I want to aid companies in building more creative and efficient programs for their clients or products. I have great experience in database related work with problem-solving skills. In my spare time, I enjoy running, traveling, and most of the time sleeping :)
 
 Here are some ideas to get you started:
 
