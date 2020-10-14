@@ -7,8 +7,8 @@ I'm Jason currently a Senior Year CS student at GSU 🏫 and aspiring Software D
   </samp>
 </p>
 
-<br>
-</br>
+
+
 
 ### My Values :fire:
 <p align="left">
