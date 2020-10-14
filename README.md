@@ -17,6 +17,6 @@ I'm Jason currently a Senior Year CS student at GSU 🏫 and aspiring Software D
 ### Programming Languages  :rocket:
 <p align="left">
   <samp>
-Python | Java | C# | Java Script
+Python | Java | C# | JavaScript
   </samp>
 </p>
