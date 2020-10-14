@@ -10,9 +10,7 @@ I'm Jason currently a Senior Year CS student at GSU 🏫 and aspiring Software D
 ### My Values :fire:
 <p align="left">
   <samp>
-TeamWork
-Responsibility
-Shared Understanding
+TeamWork | Responsibility | Shared Understanding
     
   </samp>
 </p>
