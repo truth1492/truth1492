@@ -1,4 +1,4 @@
-## Heyo :wave: Devs,
+## Hey :wave: Devs,
 
 <p align="center">
   <br><br>
@@ -8,9 +8,12 @@ I'm Jason currently a Senior Year CS student at GSU 🏫 and aspiring Software D
 </p>
 
 ### My Values :fire:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vim.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellig.png" width=60> |
-|:---:|:---:|:---:|
+
 
 ### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/js.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
-|:---:|:---:|:---:|
+<p align="left">
+  <br><br>
+  <samp>
+Python | Java | C#
+  </samp>
+</p>
