@@ -1,6 +1,9 @@
 ### Hi there 👋
+## Heyo :wave: Devs,
 
 I'm a senior looking for a full-time internship in software development. I have experience in JAVA, PYTHON, SQL, HTML/CSS, and other developing programs. In the future, I want to aid companies in building more creative and efficient programs for their clients or products. I have great experience in database related work with problem-solving skills. In my spare time, I enjoy running, traveling, and most of the time sleeping :)
+
+I'm Jason currently a Senior Year CS student at GSU 🏫 and aspiring Software Developer💻. Interested in working on Backend, API's, Databases and currently developing & learning about Mobile Game App development. Occasionaly I do participate in Hackathons 💡 and I have a love/hate relationship with Programming 😐
 
 Here are some ideas to get you started:
 
